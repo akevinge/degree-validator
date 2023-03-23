@@ -425,70 +425,12 @@
         ]
       },
       {
-        "matcher": "",
+        "matcher": "OtherRequirement",
         "metadata": {
           "name": "Major Related Courses",
           "id": "Molecular Biology (BS)-57"
         },
-        "requirements": [
-          {
-            "matcher": "CourseRequirement",
-            "course": "BIOL 3V90",
-            "metadata": {
-              "id": "Molecular Biology (BS)-58"
-            }
-          },
-          {
-            "matcher": "CourseRequirement",
-            "course": "BIOL 3V91",
-            "metadata": {
-              "id": "Molecular Biology (BS)-59"
-            }
-          },
-          {
-            "matcher": "CourseRequirement",
-            "course": "BIOL 3V96",
-            "metadata": {
-              "id": "Molecular Biology (BS)-60"
-            }
-          },
-          {
-            "matcher": "CourseRequirement",
-            "course": "BIOL 4302",
-            "metadata": {
-              "id": "Molecular Biology (BS)-61"
-            }
-          },
-          {
-            "matcher": "CourseRequirement",
-            "course": "BIOL 4390",
-            "metadata": {
-              "id": "Molecular Biology (BS)-62"
-            }
-          },
-          {
-            "matcher": "CourseRequirement",
-            "course": "BIOL 4391",
-            "metadata": {
-              "id": "Molecular Biology (BS)-63"
-            }
-          },
-          {
-            "matcher": "CourseRequirement",
-            "course": "BIOL 4399",
-            "metadata": {
-              "id": "Molecular Biology (BS)-64"
-            }
-          },
-          {
-            "matcher": "CourseRequirement",
-            "course": "BIOL 4V99",
-            "metadata": {
-              "id": "Molecular Biology (BS)-65"
-            }
-          }
-        ],
-        "required_hours": 12
+        "description": "12 semester credit hours upper-division approved molecular biology-related BIOL or CHEM electives. May not include more than 9 semester credit hours of upper-division transfer credit and not more than 6 semester credit hours of individual instruction (e.g., BIOL 3V90, BIOL 3V91, BIOL 3V96, BIOL 4302, BIOL 4390, BIOL 4391, BIOL 4399, or BIOL 4V99)."
       },
       {
         "matcher": "FreeElectiveRequirement",
