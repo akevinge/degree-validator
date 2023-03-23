@@ -679,21 +679,21 @@
                 }
               },
               {
-                "matcher": "HoursRequirement",
-                "required_hours": 3,
+                "matcher": "OtherRequirement",
                 "metadata": {
                   "id": "Biology and Criminology(BS)-91"
-                }
+                },
+                "description": "3 semester credit hours approved upper-division BIOL elective"
               }
             ]
           },
           {
-            "matcher": "HoursRequirement",
+            "matcher": "OtherRequirement",
             "metadata": {
               "name": "Criminology Related Electives",
               "id": "Biology and Criminology(BS)-92"
             },
-            "required_hours": 9
+            "description": "9 semester credit hours"
           }
         ]
       }
