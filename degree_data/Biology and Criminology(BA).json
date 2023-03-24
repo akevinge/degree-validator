@@ -1,0 +1,702 @@
+{
+  "abbreviation": "Biology and Criminology(BS)",
+  "catalog_uri": "https://catalog.utdallas.edu/2022/undergraduate/programs/nsm/biology-criminology",
+  "minimum_credit_hours": 134,
+  "name": "Bachelor of Arts in Biology and Criminology",
+  "school": "School of Natural Sciences and Mathematics",
+  "subtype": "Major",
+  "year": "2022-2023",
+  "requirements": {
+    "core": "@import ./core.json",
+    "major": [
+      {
+        "matcher": "AndRequirement",
+        "metadata": {
+          "name": "Biology Major Preparatory Courses",
+          "id": "Biology and Criminology(BS)-0"
+        },
+        "requirements": [
+          {
+            "matcher": "OrRequirement",
+            "requirements": [
+              {
+                "matcher": "CourseRequirement",
+                "course": "CHEM 1111",
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-2"
+                }
+              },
+              {
+                "matcher": "CourseRequirement",
+                "course": "CHEM 1115",
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-3"
+                }
+              }
+            ],
+            "metadata": {
+              "id": "Biology and Criminology(BS)-1"
+            }
+          },
+          {
+            "matcher": "OrRequirement",
+            "requirements": [
+              {
+                "matcher": "CourseRequirement",
+                "course": "CHEM 1112",
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-5"
+                }
+              },
+              {
+                "matcher": "CourseRequirement",
+                "course": "CHEM 1116",
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-6"
+                }
+              }
+            ],
+            "metadata": {
+              "id": "Biology and Criminology(BS)-4"
+            }
+          },
+          {
+            "matcher": "OrRequirement",
+            "requirements": [
+              {
+                "matcher": "CourseRequirement",
+                "course": "CHEM 1311",
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-8"
+                }
+              },
+              {
+                "matcher": "CourseRequirement",
+                "course": "CHEM 1315",
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-9"
+                }
+              }
+            ],
+            "metadata": {
+              "id": "Biology and Criminology(BS)-7"
+            }
+          },
+          {
+            "matcher": "OrRequirement",
+            "requirements": [
+              {
+                "matcher": "CourseRequirement",
+                "course": "CHEM 1312",
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-11"
+                }
+              },
+              {
+                "matcher": "CourseRequirement",
+                "course": "CHEM 1316",
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-12"
+                }
+              }
+            ],
+            "metadata": {
+              "id": "Biology and Criminology(BS)-10"
+            }
+          },
+          {
+            "matcher": "OrRequirement",
+            "requirements": [
+              {
+                "matcher": "CourseRequirement",
+                "course": "CHEM 2323",
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-14"
+                }
+              },
+              {
+                "matcher": "CourseRequirement",
+                "course": "CHEM 2327",
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-15"
+                }
+              }
+            ],
+            "metadata": {
+              "id": "Biology and Criminology(BS)-13"
+            }
+          },
+          {
+            "matcher": "OrRequirement",
+            "requirements": [
+              {
+                "matcher": "CourseRequirement",
+                "course": "CHEM 2325",
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-17"
+                }
+              },
+              {
+                "matcher": "CourseRequirement",
+                "course": "CHEM 2328",
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-18"
+                }
+              }
+            ],
+            "metadata": {
+              "id": "Biology and Criminology(BS)-16"
+            }
+          },
+          {
+            "matcher": "OrRequirement",
+            "requirements": [
+              {
+                "matcher": "CourseRequirement",
+                "course": "CHEM 2233",
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-20"
+                }
+              },
+              {
+                "matcher": "CourseRequirement",
+                "course": "CHEM 2237",
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-21"
+                }
+              }
+            ],
+            "metadata": {
+              "id": "Biology and Criminology(BS)-19"
+            }
+          },
+          {
+            "matcher": "OrRequirement",
+            "requirements": [
+              {
+                "matcher": "AndRequirement",
+                "requirements": [
+                  {
+                    "matcher": "CourseRequirement",
+                    "course": "MATH 2413",
+                    "metadata": {
+                      "id": "Biology and Criminology(BS)-24"
+                    }
+                  },
+                  {
+                    "matcher": "CourseRequirement",
+                    "course": "MATH 2414",
+                    "metadata": {
+                      "id": "Biology and Criminology(BS)-25"
+                    }
+                  }
+                ],
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-23"
+                }
+              },
+              {
+                "matcher": "AndRequirement",
+                "requirements": [
+                  {
+                    "matcher": "CourseRequirement",
+                    "course": "MATH 1325",
+                    "metadata": {
+                      "id": "Biology and Criminology(BS)-27"
+                    }
+                  },
+                  {
+                    "matcher": "OrRequirement",
+                    "requirements": [
+                      {
+                        "matcher": "CourseRequirement",
+                        "course": "STAT 2332",
+                        "metadata": {
+                          "id": "Biology and Criminology(BS)-29"
+                        }
+                      },
+                      {
+                        "matcher": "CourseRequirement",
+                        "course": "EPPS 2302",
+                        "metadata": {
+                          "id": "Biology and Criminology(BS)-30"
+                        }
+                      }
+                    ],
+                    "metadata": {
+                      "id": "Biology and Criminology(BS)-28"
+                    }
+                  }
+                ],
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-26"
+                }
+              }
+            ],
+            "metadata": {
+              "id": "Biology and Criminology(BS)-22"
+            }
+          },
+          {
+            "matcher": "OrRequirement",
+            "requirements": [
+              {
+                "matcher": "AndRequirement",
+                "requirements": [
+                  {
+                    "matcher": "CourseRequirement",
+                    "course": "PHYS 2325",
+                    "metadata": {
+                      "id": "Biology and Criminology(BS)-33"
+                    }
+                  },
+                  {
+                    "matcher": "CourseRequirement",
+                    "course": "PHYS 2125",
+                    "metadata": {
+                      "id": "Biology and Criminology(BS)-34"
+                    }
+                  }
+                ],
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-32"
+                }
+              },
+              {
+                "matcher": "CourseRequirement",
+                "course": "PHYS 2421",
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-35"
+                }
+              },
+              {
+                "matcher": "AndRequirement",
+                "requirements": [
+                  {
+                    "matcher": "CourseRequirement",
+                    "course": "PHYS 1301",
+                    "metadata": {
+                      "id": "Biology and Criminology(BS)-37"
+                    }
+                  },
+                  {
+                    "matcher": "CourseRequirement",
+                    "course": "PHYS 2125",
+                    "metadata": {
+                      "id": "Biology and Criminology(BS)-38"
+                    }
+                  }
+                ],
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-36"
+                }
+              }
+            ],
+            "metadata": {
+              "id": "Biology and Criminology(BS)-31"
+            }
+          },
+          {
+            "matcher": "OrRequirement",
+            "requirements": [
+              {
+                "matcher": "AndRequirement",
+                "requirements": [
+                  {
+                    "matcher": "CourseRequirement",
+                    "course": "PHYS 2326",
+                    "metadata": {
+                      "id": "Biology and Criminology(BS)-41"
+                    }
+                  },
+                  {
+                    "matcher": "CourseRequirement",
+                    "course": "PHYS 2126",
+                    "metadata": {
+                      "id": "Biology and Criminology(BS)-42"
+                    }
+                  }
+                ],
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-40"
+                }
+              },
+              {
+                "matcher": "AndRequirement",
+                "requirements": [
+                  {
+                    "matcher": "CourseRequirement",
+                    "course": "PHYS 2422",
+                    "metadata": {
+                      "id": "Biology and Criminology(BS)-44"
+                    }
+                  },
+                  {
+                    "matcher": "CourseRequirement",
+                    "course": "PHYS 2126",
+                    "metadata": {
+                      "id": "Biology and Criminology(BS)-45"
+                    }
+                  }
+                ],
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-43"
+                }
+              },
+              {
+                "matcher": "AndRequirement",
+                "requirements": [
+                  {
+                    "matcher": "CourseRequirement",
+                    "course": "PHYS 1302",
+                    "metadata": {
+                      "id": "Biology and Criminology(BS)-47"
+                    }
+                  },
+                  {
+                    "matcher": "CourseRequirement",
+                    "course": "PHYS 2126",
+                    "metadata": {
+                      "id": "Biology and Criminology(BS)-48"
+                    }
+                  }
+                ],
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-46"
+                }
+              }
+            ],
+            "metadata": {
+              "id": "Biology and Criminology(BS)-39"
+            }
+          }
+        ]
+      },
+      {
+        "matcher": "AndRequirement",
+        "metadata": {
+          "name": "Biology Major Core Courses",
+          "id": "Biology and Criminology(BS)-49"
+        },
+        "requirements": [
+          {
+            "matcher": "CourseRequirement",
+            "course": "BIOL 2111",
+            "metadata": {
+              "id": "Biology and Criminology(BS)-50"
+            }
+          },
+          {
+            "matcher": "CourseRequirement",
+            "course": "BIOL 2112",
+            "metadata": {
+              "id": "Biology and Criminology(BS)-51"
+            }
+          },
+          {
+            "matcher": "CourseRequirement",
+            "course": "BIOL 2281",
+            "metadata": {
+              "id": "Biology and Criminology(BS)-52"
+            }
+          },
+          {
+            "matcher": "CourseRequirement",
+            "course": "BIOL 2311",
+            "metadata": {
+              "id": "Biology and Criminology(BS)-53"
+            }
+          },
+          {
+            "matcher": "CourseRequirement",
+            "course": "BIOL 2312",
+            "metadata": {
+              "id": "Biology and Criminology(BS)-54"
+            }
+          },
+          {
+            "matcher": "CourseRequirement",
+            "course": "BIOL 3101",
+            "metadata": {
+              "id": "Biology and Criminology(BS)-55"
+            }
+          },
+          {
+            "matcher": "CourseRequirement",
+            "course": "BIOL 3102",
+            "metadata": {
+              "id": "Biology and Criminology(BS)-56"
+            }
+          },
+          {
+            "matcher": "CourseRequirement",
+            "course": "BIOL 3161",
+            "metadata": {
+              "id": "Biology and Criminology(BS)-57"
+            }
+          },
+          {
+            "matcher": "CourseRequirement",
+            "course": "BIOL 3162",
+            "metadata": {
+              "id": "Biology and Criminology(BS)-58"
+            }
+          },
+          {
+            "matcher": "CourseRequirement",
+            "course": "BIOL 3301",
+            "metadata": {
+              "id": "Biology and Criminology(BS)-59"
+            }
+          },
+          {
+            "matcher": "CourseRequirement",
+            "course": "BIOL 3302",
+            "metadata": {
+              "id": "Biology and Criminology(BS)-60"
+            }
+          },
+          {
+            "matcher": "CourseRequirement",
+            "course": "BIOL 3318",
+            "metadata": {
+              "id": "Biology and Criminology(BS)-61"
+            }
+          },
+          {
+            "matcher": "CourseRequirement",
+            "course": "BIOL 3361",
+            "metadata": {
+              "id": "Biology and Criminology(BS)-62"
+            }
+          },
+          {
+            "matcher": "OrRequirement",
+            "requirements": [
+              {
+                "matcher": "CourseRequirement",
+                "course": "BIOL 3362",
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-64"
+                }
+              },
+              {
+                "matcher": "CourseRequirement",
+                "course": "BIOL 3335",
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-65"
+                }
+              }
+            ],
+            "metadata": {
+              "id": "Biology and Criminology(BS)-63"
+            }
+          },
+          {
+            "matcher": "CourseRequirement",
+            "course": "BIOL 3380",
+            "metadata": {
+              "id": "Biology and Criminology(BS)-66"
+            }
+          }
+        ]
+      },
+      {
+        "matcher": "AndRequirement",
+        "metadata": {
+          "name": "Criminology Major Preparatory Courses",
+          "id": "Biology and Criminology(BS)-67"
+        },
+        "requirements": [
+          {
+            "matcher": "CourseRequirement",
+            "course": "CRIM 1301",
+            "metadata": {
+              "id": "Biology and Criminology(BS)-68"
+            }
+          },
+          {
+            "matcher": "CourseRequirement",
+            "course": "CRIM 1307",
+            "metadata": {
+              "id": "Biology and Criminology(BS)-69"
+            }
+          },
+          {
+            "matcher": "OrRequirement",
+            "requirements": [
+              {
+                "matcher": "CourseRequirement",
+                "course": "ECON 2301",
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-71"
+                }
+              },
+              {
+                "matcher": "CourseRequirement",
+                "course": "ECON 2302",
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-72"
+                }
+              }
+            ],
+            "metadata": {
+              "id": "Biology and Criminology(BS)-70"
+            }
+          }
+        ]
+      },
+      {
+        "matcher": "AndRequirement",
+        "metadata": {
+          "name": "Criminology Core Courses",
+          "id": "Biology and Criminology(BS)-73"
+        },
+        "requirements": [
+          {
+            "matcher": "CourseRequirement",
+            "course": "CRIM 3300",
+            "metadata": {
+              "id": "Biology and Criminology(BS)-74"
+            }
+          },
+          {
+            "matcher": "CourseRequirement",
+            "course": "CRIM 3302",
+            "metadata": {
+              "id": "Biology and Criminology(BS)-75"
+            }
+          },
+          {
+            "matcher": "CourseRequirement",
+            "course": "CRIM 3303",
+            "metadata": {
+              "id": "Biology and Criminology(BS)-76"
+            }
+          },
+          {
+            "matcher": "CourseRequirement",
+            "course": "CRIM 3310",
+            "metadata": {
+              "id": "Biology and Criminology(BS)-77"
+            }
+          },
+          {
+            "matcher": "CourseRequirement",
+            "course": "CRIM 4311",
+            "metadata": {
+              "id": "Biology and Criminology(BS)-78"
+            }
+          },
+          {
+            "matcher": "CourseRequirement",
+            "course": "CRIM 4322",
+            "metadata": {
+              "id": "Biology and Criminology(BS)-79"
+            }
+          },
+          {
+            "matcher": "OrRequirement",
+            "metadata": {
+              "name": "Distributive Justice Focus",
+              "id": "Biology and Criminology(BS)-80"
+            },
+            "requirements": [
+              {
+                "matcher": "CourseRequirement",
+                "course": "CRIM 3301",
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-81"
+                }
+              },
+              {
+                "matcher": "CourseRequirement",
+                "course": "ECON 4330",
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-82"
+                }
+              },
+              {
+                "matcher": "CourseRequirement",
+                "course": "SOC 4302",
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-83"
+                }
+              }
+            ]
+          },
+          {
+            "matcher": "OrRequirement",
+            "metadata": {
+              "name": "International or Comparative Focus",
+              "id": "Biology and Criminology(BS)-84"
+            },
+            "requirements": [
+              {
+                "matcher": "CourseRequirement",
+                "course": "CRIM 3319",
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-85"
+                }
+              },
+              {
+                "matcher": "CourseRequirement",
+                "course": "ECON 4360",
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-86"
+                }
+              },
+              {
+                "matcher": "CourseRequirement",
+                "course": "PSCI 3350",
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-87"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "matcher": "AndRequirement",
+        "metadata": {
+          "name": "Guided Electives",
+          "id": "Biology and Criminology(BS)-88"
+        },
+        "requirements": [
+          {
+            "matcher": "AndRequirement",
+            "metadata": {
+              "name": "Biology",
+              "id": "Biology and Criminology(BS)-89"
+            },
+            "requirements": [
+              {
+                "matcher": "CourseRequirement",
+                "course": "BIOL 4380",
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-90"
+                }
+              },
+              {
+                "matcher": "OtherRequirement",
+                "metadata": {
+                  "id": "Biology and Criminology(BS)-91"
+                },
+                "description": "3 semester credit hours approved upper-division BIOL elective"
+              }
+            ]
+          },
+          {
+            "matcher": "OtherRequirement",
+            "metadata": {
+              "name": "Criminology Related Electives",
+              "id": "Biology and Criminology(BS)-92"
+            },
+            "description": "9 semester credit hours"
+          }
+        ]
+      }
+    ]
+  }
+}
